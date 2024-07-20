@@ -32,7 +32,7 @@ BSIT-3307
    <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hawak Carl Jonel V. </h5>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
       <a href="https://www.facebook.com/jonel.hawak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-        <a href="" target="_blank">
+        <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fcarljon3l_%3Figsh%3DMXdpOTkyZjZrNHNzdA%253D%253D%26fbclid%3DIwZXh0bgNhZW0CMTAAAR1BQDfrt9XrPQCPuK_-xw-JGf-KIbtyt8J14SEI_g8Vj5okiUTRFrZu28I_aem_wt8RC0ZlQUgaCXUIIC8Dpg&h=AT2PxycAyy6OhVZOP1UJWmlAqQfTJO3ZWGwC11iJ0snbylLKGOcOgKa6_YgeR-BjzmD7VVZ8oqluGna4nAiUkwc2L6wVkmsd1jObbIwXo2f_vKCjWnzYeOTDOwX8C58z_KNJNg" target="_blank">
           <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
     <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmadushadhanushka&longCache=true"/>
  
