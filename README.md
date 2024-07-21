@@ -1,6 +1,6 @@
 ![UI Image 1](Icon/splash_image.png)
 # Project In Application Development
-[![Download](https://img.shields.io/badge/Download-Repository-brightgreen)](https://github.com/LunaAndrei/CRAMPANION_PROJEC/archive/refs/heads/BRANCH.zip)
+[![Download](https://img.shields.io/badge/Download-Repository-brightgreen)](https://github.com/LunaAndrei/CRAMPANION_PROJEC/archive/refs/heads/main.zip)
 
 **Crampanion Brainy Student Task Tamer**  
 BSIT-3307
