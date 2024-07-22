@@ -20,16 +20,17 @@ BSIT-3307
 
 </details>
 <details>
-  <summary>UI</summary> 
+  <summary>User Interface</summary>
 
-
-  <pre>                                                  <b>Task Screen UI</b>        </pre>
-  
-
-<pre>                  <b>UI for Adding a Task</b>                                         <b>UI of Task Details</b>    </pre>
+  ## Splash Screen
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="UI/SplashscreenUI.jpg" alt="Splashscreen" width="500" height="700">
+  ## User Guide Dialog
+  &nbsp;<img src="UI/Dialogaftersplash.jpg" alt="Userdialogguide" width="500" height="700"> <img src="UI/UserGuide.jpg" alt="Userdialogguide" width="500" height="700">
 </details>
 
-<details><summary>Developer</summary>
+
+
+<details><summary>Developer</summary>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Devpic/Devpic 3.jpg" alt="Dev Pic" width="200" height="200">
    <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hawak Carl Jonel V. </h5>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
