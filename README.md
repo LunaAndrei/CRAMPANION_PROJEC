@@ -23,7 +23,7 @@ BSIT-3307
   <summary>User Interface</summary>
 
   ## Splash Screen
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="UI/SplashscreenUI.jpg" alt="Splashscreen" width="500" height="700">
+<img src="UI/SplashscreenUI.jpg" alt="Splashscreen" width="500" height="700">
   ## User Guide Dialog
   &nbsp;<img src="UI/Dialogaftersplash.jpg" alt="Userdialogguide" width="500" height="700"> <img src="UI/UserGuide.jpg" alt="Userdialogguide" width="500" height="700">
   &nbsp;&nbsp;&nbsp;*This is the user guide Dialog for the new user of the crampanion app*
