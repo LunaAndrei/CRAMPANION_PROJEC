@@ -20,16 +20,34 @@ BSIT-3307
 
 </details>
 <details>
-  <summary>UI</summary> 
+  <summary>User Interface</summary>
 
+  ## Splash Screen
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="UI/SplashscreenUI.jpg" alt="Splashscreen" width="500" height="700">
 
-  <pre>                                                  <b>Task Screen UI</b>        </pre>
-  
+  ##  User Guide Dialog
+  &nbsp;<img src="UI/Dialogaftersplash.jpg" alt="Userdialogguide" width="500" height="700"> <img src="UI/UserGuide.jpg" alt="Userdialogguide" width="500" height="700">
+  &nbsp;&nbsp;&nbsp;*This is the user guide Dialog for the new user of the crampanion app*
 
-<pre>                  <b>UI for Adding a Task</b>                                         <b>UI of Task Details</b>    </pre>
+   ## Task Screen
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="UI/Ui_11.jpg" alt="taskscreen" width="500" height="700">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*In this UI, you will see the subject of the task, the submission date, and the remaining days before the deadline.*
+
+   ## Task Screen Tab
+&nbsp;<img src="UI/All tasktab.jpg" alt="all tasktab" width="500" height="700"> <img src="UI/taskscreenUI.jpg" alt="Due Soon" width="500" height="700">
+&nbsp;&nbsp;&nbsp;*The Task Screen has two tabs. The first tab is the 'All Tasks' tab, which displays tasks with deadlines that are two or more days away. In this tab, tasks are highlighted in green to indicate that the deadline is in the future. The second tab is the 'Due Soon' tab. This tab shows tasks that are either one day before the deadline or within 24 hours of it. You will also see that the text blinks red if the task's deadline is today.*
+  ## UI for Adding a task Details
+&nbsp;<img src="UI/AddtaskUI.jpg" alt="Taskdialog" width="500" height="700"> <img src="UI/Screenshot_2024-07-22-16-39-27-236_com.example.projectinappdev.jpg" alt="Selectingdate" width="500" height="700">
+&nbsp;&nbsp;&nbsp;*In this dialog there is an input type where you can enter or add the details of your task you can also select a submission date for your task*
+   ## Task Details
+&nbsp;<img src="UI/Taskdetails UI.jpg" alt="tasksdetails" width="500" height="700"> <img src="UI/Adding a details and time.jpg" alt="tasksdetails" width="500" height="700">
+
+&nbsp;&nbsp;&nbsp;*In this UI you will see the details of your task that you have added inlcuding also the date you can also add edit and delete the details of your &nbsp;task*
 </details>
 
-<details><summary>Developer</summary>
+
+<details><summary>Developer</summary>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Devpic/Devpic 3.jpg" alt="Dev Pic" width="200" height="200">
    <h5>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hawak Carl Jonel V. </h5>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -57,7 +75,9 @@ BSIT-3307
 <details><summary>Programming Languages used and Frameworks</summary><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-
-
-
+</details>
+<details> <summary> How to use Crampanion</Summary>
+  
+  ### Button in Task Screen
+  
 </details>
