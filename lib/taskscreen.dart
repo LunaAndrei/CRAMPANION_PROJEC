@@ -170,8 +170,8 @@ class _TaskScreenState extends State<TaskScreen> with SingleTickerProviderStateM
         bottom: TabBar(
           controller: _tabController,
           tabs: [
-            Tab(icon: Icon(Icons.task), text: "All Tasks"),
-            Tab(icon: Icon(Icons.notifications), text: "Due Soon"),
+            Tab(icon: Icon(Icons.task), text: "All Tasks (${tasksNotDueSoon.length})"),
+            Tab(icon: Icon(Icons.notifications), text: "Due Soon (${tasksDueSoon.length})"),
           ],
         ),
       ),
